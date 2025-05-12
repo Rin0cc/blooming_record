@@ -69,3 +69,6 @@ RUNTEQのポモドーロ勉強法を取り入れたことで、自分の努力�
 
 ### 画面遷移図
 Figma：https://www.figma.com/design/4kCCVCXhWqxJIdVIifQLZE/%E7%84%A1%E9%A1%8C?node-id=0-1&t=IfvO9akxVBHhT3rq-1
+
+### ER図
+ER図：https://app.diagrams.net/#G19dhmxyBBigMYUA72SGwaE7c-xSvxEKhQ#%7B%22pageId%22%3A%225xM9FkNxEeX8kEIw1n2u%22%7D
