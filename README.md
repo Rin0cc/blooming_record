@@ -66,3 +66,6 @@ RUNTEQのポモドーロ勉強法を取り入れたことで、自分の努力�
 - フロントエンド：HTML / CSS / JavaScript / Anime.js  
 - バックエンド：Ruby on Rails  
 - データ保存：PostgreSQL
+
+### 画面遷移図
+Figma：https://www.figma.com/design/4kCCVCXhWqxJIdVIifQLZE/%E7%84%A1%E9%A1%8C?node-id=0-1&t=IfvO9akxVBHhT3rq-1
