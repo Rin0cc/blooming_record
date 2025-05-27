@@ -1,0 +1,14 @@
+development:
+  adapter: async
+
+test:
+  adapter: test
+
+production:
+  adapter: redis
+  url: <%= ENV.fetch("REDIS_URL") { "redis://localhost:6379/1" } %>
+<<<<<<< HEAD
+  channel_prefix: bloomingrecord_production
+=======
+  channel_prefix: myapp_production
+>>>>>>> 65028d3 (init commit)

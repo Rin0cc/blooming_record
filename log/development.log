@@ -1,3 +1,0 @@
-  [1m[35m (101.6ms)[0m  [1m[35mCREATE DATABASE "bloomingrecord_development" ENCODING = 'unicode'[0m
-  [1m[35m (250.8ms)[0m  [1m[35mCREATE DATABASE "bloomingrecord_development" ENCODING = 'unicode'[0m
-  [1m[35m (60.0ms)[0m  [1m[35mCREATE DATABASE "bloomingrecord_test" ENCODING = 'unicode'[0m
